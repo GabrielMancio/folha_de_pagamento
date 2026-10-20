@@ -68,5 +68,3 @@ As pastas reservadas contêm somente `.gitkeep` para serem registradas pelo Git.
 - [Plano de Testes](04_Testes/06_Plano_Testes.docx).
 - [Casos de Teste](04_Testes/07_Casos_Testes.docx).
 - [Plano de Garantia da Qualidade](10_Qualidade/05_Plano_Qualidade.docx).
-
-Os documentos Word foram preservados sem alterações. O ZIP original permanece como cópia local, fora do versionamento.
