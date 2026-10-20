@@ -1,0 +1,28 @@
+# Cópia local dos documentos e extração temporária
+/gestão_e_qualidade_de_software_gabriel_mancio.zip
+/.tmp_documentos_gqs/
+
+# Arquivos temporários do Word
+~$*
+~WRL*.tmp
+~WRD*.tmp
+*.wbk
+
+# Dependências, compilações e cobertura futuras
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+*.tsbuildinfo
+*.log
+
+# Configurações privadas e bancos locais gerados
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
